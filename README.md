@@ -5,13 +5,11 @@ Welcome! This portfolio showcases my skills in Software Design, Algorithms, and 
 ## 🎥 Code Review Video
 [Watch on YouTube](https://youtu.be/0Rg2txK2VP4)
 
-## 🧩 Enhanced Artifact
-- Folder: [`/enhanced`](./enhanced/)
-- Description: Improved project demonstrating design patterns, UI enhancements, and optimized logic.
+## 💻 Code Artifacts
 
-## 🗃️ Original Artifact
-- Folder: [`/original`](./original/)
-- Description: Initial version of the project before enhancements.
+All enhanced and original code files can be viewed directly on GitHub:
+
+🔗 [View the Repository on GitHub](https://github.com/yourusername/your-repo)
 
 ## 📄 Narratives
 - [Software Design Narrative (PDF)](./narratives/software-design-narrative.pdf)
