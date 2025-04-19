@@ -14,9 +14,13 @@ Welcome! This portfolio showcases my skills in Software Design, Algorithms, and 
 - Description: Initial version of the project before enhancements.
 
 ## 📄 Narratives
-- [Software Design Narrative (PDF)](./narratives/software-design.pdf)
-- [Algorithms Narrative (PDF)](./narratives/algorithms.pdf)
-- [Databases Narrative (PDF)](./narratives/databases.pdf)
+- [Software Design Narrative (PDF)](./narratives/software-design-narrative.pdf)
+- [Algorithms Narrative (PDF)](./narratives/algorithms-narrative.pdf)
+- [Databases Narrative (PDF)](./narratives/databases-narrative.pdf)
+
+## 🧑‍💼 Professional Self-Assessment
+
+- [Professional Self-Assessment (PDF)](./narratives/professional-self-assessment.pdf)
 
 ## 💼 About Me
 I'm a passionate software developer with a strong foundation in full-stack development, algorithms, and clean architecture. My goal is to build scalable, maintainable, and user-focused applications.
