@@ -19,4 +19,6 @@ Welcome! This portfolio showcases my skills in Software Design, Algorithms, and 
 - [Databases Narrative (PDF)](./narratives/databases.pdf)
 
 ## 💼 About Me
-Short intro with career goals and skills.
+I'm a passionate software developer with a strong foundation in full-stack development, algorithms, and clean architecture. My goal is to build scalable, maintainable, and user-focused applications.
+
+This capstone project is a reflection of my technical growth and readiness to contribute meaningfully to the field of software engineering.
