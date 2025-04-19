@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">5-3_Project_TWO_By_Dawson_Kennedy</string>
+    <string name="sms_permission_text">This app needs SMS permission to send notifications</string>
+    <string name="grant_permission_button">Grant Permission</string>
+</resources>
