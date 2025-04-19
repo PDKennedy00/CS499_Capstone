@@ -9,7 +9,7 @@ Welcome! This portfolio showcases my skills in Software Design, Algorithms, and 
 
 All enhanced and original code files can be viewed directly on GitHub:
 
-🔗 [View the Repository on GitHub](https://github.com/yourusername/your-repo)
+🔗 [View the Repository on GitHub]([https://github.com/yourusername/your-repo](https://github.com/PDKennedy00/CS499_Capstone))
 
 ## 📄 Narratives
 - [Software Design Narrative (PDF)](./narratives/software-design-narrative.pdf)
